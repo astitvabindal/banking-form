@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/banking-form/static/css/main.f855e6bc.css",
-    "main.js": "/banking-form/static/js/main.3e74bce6.js",
+    "main.css": "/banking-form/static/css/main.62720b2c.css",
+    "main.js": "/banking-form/static/js/main.45524c0b.js",
     "static/js/453.7331459e.chunk.js": "/banking-form/static/js/453.7331459e.chunk.js",
     "index.html": "/banking-form/index.html",
-    "main.f855e6bc.css.map": "/banking-form/static/css/main.f855e6bc.css.map",
-    "main.3e74bce6.js.map": "/banking-form/static/js/main.3e74bce6.js.map",
+    "main.62720b2c.css.map": "/banking-form/static/css/main.62720b2c.css.map",
+    "main.45524c0b.js.map": "/banking-form/static/js/main.45524c0b.js.map",
     "453.7331459e.chunk.js.map": "/banking-form/static/js/453.7331459e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3e74bce6.js"
+    "static/css/main.62720b2c.css",
+    "static/js/main.45524c0b.js"
   ]
 }
